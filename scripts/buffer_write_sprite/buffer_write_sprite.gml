@@ -1,0 +1,11 @@
+var buffer = argument0;
+buffer_write( buffer, buffer_f32, x );
+buffer_write( buffer, buffer_f32, y );
+buffer_write( buffer, buffer_u16, sprite_index );
+buffer_write( buffer, buffer_u8, image_index );
+buffer_write( buffer, buffer_f32, image_xscale );
+buffer_write( buffer, buffer_f32, image_yscale );
+buffer_write( buffer, buffer_s16, image_angle );
+buffer_write( buffer, buffer_s32, image_blend );
+buffer_write( buffer, buffer_string, "");
+return 1;

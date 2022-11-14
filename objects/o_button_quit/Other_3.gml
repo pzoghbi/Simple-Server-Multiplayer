@@ -1,0 +1,21 @@
+/// @description 
+	//show_message("NOOOOOOOOO");
+	//show_message("Don't QUIT");
+	//show_message("You're a lucky winner!!!");
+	//show_message("Imaš dobre siese");
+	//show_message("Donate $100");
+	//show_message("Press OK if you're a pussy");
+	//show_message("Confirm that Phillip is the finest man.");
+	//show_message("Confirm that Phillip is the finest man.");
+	//show_message("Confirm that Phillip is the finest man.");
+	//show_message("Confirm that Phillip is the finest man.");
+	//show_message("Confirm that Phillip is the finest man.");
+	//show_message("Confirm that Phillip is the finest man.");
+	//show_message("Confirm that Phillip is the finest man.");
+	//show_message("Confirm that Phillip is the finest man.");
+	//show_message("Confirm that Phillip is the finest man.");
+	//show_message("Confirm that Phillip is the finest man.");
+	//show_message("Confirm that Phillip is the finest man.");
+	//show_message("Confirm that Phillip is the finest man.");
+	//show_message("Confirm that Phillip is the finest man.");
+	show_message("Thank you for playing.");
